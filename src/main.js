@@ -14,7 +14,7 @@ Vue.use(BootstrapVue)
 Vue.config.productionTip = false
 
 global.GITHUB_URL = 'https://api.github.com/orgs/'
-global.ACCESS_TOKEN_OPTION = { params: {access_token: 'd7610917ef34de405d7b9c73a0be80b42d9ed205'}}
+global.ACCESS_TOKEN_OPTION = {}
 
 /* eslint-disable no-new */
 new Vue({
